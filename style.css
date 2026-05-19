@@ -73,11 +73,11 @@ h2 {
   width: 312px;
   padding: 2rem;
   border-radius: 0.5rem;
-  box-shadow: 4px 4px 4px 4px hsl(180, 4%, 80%);
+  box-shadow: 4px 4px 10px 3px hsla(180, 12%, 60%, 0.363);
 }
 
 .supervisor--card {
-  border-top: 0.3rem solid hsl(180, 62%, 55%);
+  border-top: 0.3rem solid hsl(180, 28%, 54%);
 
   @media (width > 768px) {
     grid-column: 1/2;
